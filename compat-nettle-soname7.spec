@@ -6,7 +6,7 @@
 #
 Name     : compat-nettle-soname7
 Version  : 3.5.1
-Release  : 45
+Release  : 46
 URL      : https://mirrors.kernel.org/gnu/nettle/nettle-3.5.1.tar.gz
 Source0  : https://mirrors.kernel.org/gnu/nettle/nettle-3.5.1.tar.gz
 Source1  : https://mirrors.kernel.org/gnu/nettle/nettle-3.5.1.tar.gz.sig
